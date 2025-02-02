@@ -71,7 +71,7 @@
         {   
             "name": "HTML", 
             "category":"Technical",
-            "logo": "https://lamlankosi.github.io/project_images/Images/HTML5_logo_and_wordmark.svg" 
+            "logo": "https://lamlankosi.github.io/project_images/Images/HTML5_logo_and_wordmark.svg.png" 
         },
         {   
             "name": "Bootstrap", 
@@ -81,7 +81,7 @@
         {   
             "name": "JavaScript", 
             "category":"Technical",
-            "logo": "https://lamlankosi.github.io/project_images/Images/" 
+            "logo": "https://lamlankosi.github.io/project_images/Images/Javascript-shield.svg.png" 
         },
         {   
             "name": "Vue.js", 
