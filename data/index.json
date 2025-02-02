@@ -20,19 +20,26 @@
             "schoolURL":"https://lamlankosi.github.io/project_images/Images/images(1).png",
             "certificate":"https://drive.google.com/file/d/1kThLzloiGUegmjzARLjdIgNKZDnW8PwZ/view?usp=drive_link"
         },
+        {
+            "school": "AWS Skills Center",
+            "year": "2024",
+            "occupation": "Gained knowledge about AWS cloud model and its core services, how the cloud is used, and how the shared responsibility model impacts design decisions.",
+            "schoolURL":"https://lamlankosi.github.io/project_images/Images/Amazon_Web_Services-Logo.wine.svg",
+            "certificate": "https://drive.google.com/file/d/1nYFr7BR7Afm-ND0CodeRyz0wfKX8V6Cg/view?usp=drive_link"
+        },
         { 
-        "school": "Christel House South Africa", 
-        "year": "2023",
-        "occupation": "NSC Completion",
-        "schoolURL": "https://lamlankosi.github.io/project_images/Images/CHSA-logo.jpeg",
-        "certificate":"https://drive.google.com/file/d/1lZkVU-7cSdDqHJm2T5-wKZCqfIhkWNAR/view?usp=drive_link"
+            "school": "Christel House South Africa", 
+            "year": "2023",
+            "occupation": "NSC Completion",
+            "schoolURL": "https://lamlankosi.github.io/project_images/Images/CHSA-logo.jpeg",
+            "certificate":"https://drive.google.com/file/d/1lZkVU-7cSdDqHJm2T5-wKZCqfIhkWNAR/view?usp=drive_link"
     },
     {
-        "school": "The Digital Law Academy",
-        "year": "2023",
-        "occupation": "The dangers of social media, and how to avoid them.",
-        "schoolURL":"https://lamlankosi.github.io/project_images/Images/LogoPink.png",
-        "certificate":"https://drive.google.com/file/d/1ohIaFD9KbA15y-s1Vy_k3Nfl6HuiPrGy/view?usp=drive_link"
+            "school": "The Digital Law Academy",
+            "year": "2023",
+            "occupation": "The dangers of social media, and how to avoid them.",
+            "schoolURL":"https://lamlankosi.github.io/project_images/Images/LogoPink.png",
+            "certificate":"https://drive.google.com/file/d/1ohIaFD9KbA15y-s1Vy_k3Nfl6HuiPrGy/view?usp=drive_link"
     }
     ],
     "certificates":[
