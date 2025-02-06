@@ -56,27 +56,49 @@
         {
             "badgeURL":"https://lamlankosi.github.io/project_images/Images/c-essentials-1.png",
             "name":"C++ Essentials 1",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/C++.png,
             "certificateURL":"https://drive.google.com/file/d/1tdMGXdoXVTZjrDMPuKtD58Ra6MP9nVR6/view?usp=sharing"
         },
         {
             "badgeURL":"https://lamlankosi.github.io/project_images/Images/junior-cybersecurity-analyst-career-path.1.png",
             "name":"Junior Cybersecurity Anaylst Career",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/cybersecurity.png,
             "certificateURL":"https://drive.google.com/file/d/1LRqKJrWFX5J8XNZhbks72CAQfA_N4kMZ/view?usp=sharing"
         },
         {
             "badgeURL":"https://lamlankosi.github.io/project_images/Images/operating-systems-basics.png",
             "name":"Operating System Basics",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/OS.png,
             "certificateURL":"https://drive.google.com/file/d/1-9M_yVvgtJPNc78D9LVElc6Yu40epw9p/view?usp=sharing"
         },
         {
             "badgeURL":"https://lamlankosi.github.io/project_images/Images/python-essentials-2.png",
             "name":"Python Essential 1",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/python2.png,
             "certificateURL":"https://drive.google.com/file/d/1yE_yU3Ssm5ERGJj6_7eW4Znu5iRRWdvF/view?usp=sharing"
         },
         {
             "badgeURL":"https://lamlankosi.github.io/project_images/Images/python-essentials-1.1.png",
             "name":"Python Essential 1",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/python1.png,
             "certificateURL":"https://drive.google.com/file/d/1vRHErWkg6_Q2SGXpjjjZqiy7UtpeehdI/view?usp=sharing"
+        },
+        {
+ 
+            "name":"AWS Skills Centre",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/AWS.png",
+            "certificateURL":"https://drive.google.com/file/d/1nYFr7BR7Afm-ND0CodeRyz0wfKX8V6Cg/view?usp=sharing"
+        }
+        {
+
+            "name":"Life Choice Academy",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/LCAcademy.png",
+            "certificateURL":"https://drive.google.com/file/d/1LRqKJrWFX5J8XNZhbks72CAQfA_N4kMZ/view?usp=sharing"
+        }
+        {
+            "name":"The Digital Law Academy",
+            "certificateIMG":"https://lamlankosi.github.io/project_images/Images/thedigital.png",
+            "certificateURL":"https://drive.google.com/file/d/1LRqKJrWFX5J8XNZhbks72CAQfA_N4kMZ/view?usp=sharing"
         }
     ],
     "skills": [
