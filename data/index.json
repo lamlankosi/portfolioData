@@ -44,6 +44,14 @@
             "certificate":"https://drive.google.com/file/d/1ohIaFD9KbA15y-s1Vy_k3Nfl6HuiPrGy/view?usp=drive_link"
     }
     ],
+    "experience":[
+    {
+        "companyName":"Life Choices Studio",
+        "year":"2024",
+        "occupation":"Internship",
+        "schoolURL":"https://lamlankosi.github.io/project_images/Images/lc_studioza_logo.jfif"
+    }
+  ],
     "certificates":[
         {
             "badgeURL":"https://lamlankosi.github.io/project_images/Images/c-essentials-1.png",
