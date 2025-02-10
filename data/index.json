@@ -101,6 +101,24 @@
             "name":"The Digital Law Academy",
             "certificateIMG":"https://lamlankosi.github.io/project_images/Images/thedigital.png",
             "certificateURL":"https://drive.google.com/file/d/1ohIaFD9KbA15y-s1Vy_k3Nfl6HuiPrGy/view?usp=sharing"
+        },
+        {
+            "badgeURL":"https://lamlankosi.github.io/project_images/Images/LCS-SOFTWARE-ENGINEERING.png",
+            "name":"",
+            "certificateIMG":"",
+            "certificateURL":""
+        },
+        {
+            "badgeURL":"https://lamlankosi.github.io/project_images/Images/UIUX.png",
+            "name":"",
+            "certificateIMG":"",
+            "certificateURL":""
+        },
+        {
+            "badgeURL":"https://lamlankosi.github.io/project_images/Images/SCRUM.png",
+            "name":"",
+            "certificateIMG":"",
+            "certificateURL":""
         }
     ],
     "skills": [
