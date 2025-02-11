@@ -196,6 +196,39 @@
     "projects": [
         {
           "id": 1,
+          "name": "Urban Loft(eCommerce)",
+          "description": "A modern, responsive Vue.js-powered e-commerce platform for selling plants. Users can browse plants, add items to their cart, and complete purchases seamlessly. The platform includes authentication, product filtering, and an admin dashboard for managing products and orders.",
+          "tags": ["Vuejs", "CSS", "Bootstrap", "HTML"],
+          "status": "completed",
+          "github": "https://github.com/lamlankosi/FullStack.git",
+          "vercel": "https://urban-loft-13aae.web.app/",
+          "background_img": "https://lamlankosi.github.io/project_images/Images/weatherApp.png"
+    
+        },
+        {
+          "id": 2,
+          "name": "Weather App",
+          "description": "A Weather App built with Python allows users to retrieve real-time weather data for any location using a weather API. The app provides essential weather details such as temperature, humidity, wind speed, weather conditions, and forecasts.",
+          "tags": ["Flask", "CSS", "HTML"],
+          "status": "completed",
+          "github": "https://github.com/lamlankosi/weather_app.git",
+          "vercel": "https://weather-app-eta-bay.vercel.app/",
+          "background_img": "https://lamlankosi.github.io/project_images/Images/weatherApp.png"
+    
+        },
+        {
+            "id": 3,
+            "name": "Inventory",
+            "description": "A Vue.js-powered inventory management system designed for a gaming e-commerce store. This system helps admins efficiently manage gaming products, track stock levels, and log inventory changes. It includes logging features, product categorization, real-time updates, and user role management.",
+            "tags": ["Vuejs", "CSS", "Bootstrap", "HTML"],
+            "status": "completed",
+            "github": "https://github.com/lamlankosi/Capstone.git",
+            "vercel": "https://capstone-97e01.web.app/",
+            "background_img": "https://lamlankosi.github.io/project_images/Images/weatherApp.png"
+          
+        },
+        {
+          "id": 4,
           "name": "Calculator",
           "description": "Basic calculator allowing user to perform arthemtic operations such as addition,subraction, multiplication and division through a simple interactive interface",
           "tags": ["HTML", "CSS", "JavaScript"],
@@ -203,20 +236,10 @@
           "github": "https://github.com/lamlankosi/Calculator.git",
           "vercel": "https://calculator-ruddy-rho.vercel.app/",
           "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121718.png"
-    
+          
         },
         {
-          "id": 2,
-          "name": "Shoe Store",
-          "description": "Online Shoe store offering a variety of footwear for purchase. It includes product listings, description",
-          "tags": ["HTML", "CSS", "Bootstrap", "JavaScript"] ,
-          "status": "working-on",
-          "github": "https://github.com/lamlankosi/Shoe-Store.git",
-          "vercel": "https://shoe-store-eosin-theta.vercel.app/",
-          "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
-        },
-        {
-          "id": 4,
+          "id": 5,
           "name": "To-do-List",
           "description": "To do app that allows users to add, manage and delete tasks, gelping to organise and track daily activities effieciently",
           "tags": ["HTML", "CSS", "JavaScript"],
@@ -226,8 +249,8 @@
           "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-122011.png"
         },
         {
-          "id": 5,
-          "name": "Gaming Store",
+          "id": 6,
+          "name": "Gaming Store(eCommerce)",
           "description": "Online gaming store offering video games and gaming accessories for purchase.It include product listing and shopping features",
           "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
           "status": "completed",
@@ -236,7 +259,7 @@
           "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
         },
         {
-          "id": 6,
+          "id": 7,
           "name": "Keyboard",
           "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
           "tags": ["HTML", "CSS"],
@@ -244,17 +267,6 @@
           "vercel": "https://keyboard1-zeta.vercel.app/",
           "github": "hhttps://github.com/lamlankosi/Keyboard1.git",
           "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
-        },
-        {
-          "id": 7,
-          "name": "Bootstrap Portfolio",
-          "description": "The portfolio is designed to be user-friendly and fully responsive, ensuring a seamless experience across all devices, from desktops to smartphones. It includes several key sections that provide visitors with a clear understanding of who I am and what I do.",
-          "tags": ["HTML", "CSS", "Bootstrap"],
-          "status": "completed",
-          "github": "https://github.com/lamlankosi/myPortfolio.git",
-          "vercel": "https://my-portfolio-rose-ten-87.vercel.app/",
-          "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-082603.png"
-    
         }
     ]
 }
