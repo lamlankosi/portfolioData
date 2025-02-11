@@ -208,7 +208,7 @@
         {
           "id": 2,
           "name": "Weather App",
-          "description": "A Weather App built with Python allows users to retrieve real-time weather data for any location using a weather API. The app provides essential weather details such as temperature, humidity, wind speed, weather conditions, and forecasts.",
+          "description": "A Python-based Weather App enables users to access real-time weather data for any location via a weather API. It delivers key weather details, including temperature, humidity, wind speed, conditions, and forecasts, ensuring accurate and up-to-date meteorological information anytime.",
           "tags": ["Flask", "CSS", "HTML"],
           "status": "completed",
           "github": "https://github.com/lamlankosi/weather_app.git",
@@ -219,7 +219,7 @@
         {
             "id": 3,
             "name": "Inventory",
-            "description": "A Vue.js-powered inventory management system designed for a gaming e-commerce store. This system helps admins efficiently manage gaming products, track stock levels, and log inventory changes. It includes logging features, product categorization, real-time updates, and user role management.",
+            "description": "A Vue.js-powered inventory system for gaming e-commerce helps admins manage products, track stock, and log changes efficiently. It features logging, categorization, real-time updates, and user role management for seamless inventory control and organization.",
             "tags": ["Vuejs", "CSS", "Bootstrap", "HTML"],
             "status": "completed",
             "github": "https://github.com/lamlankosi/Capstone.git",
@@ -241,7 +241,7 @@
         {
           "id": 5,
           "name": "To-do-List",
-          "description": "To do app that allows users to add, manage and delete tasks, gelping to organise and track daily activities effieciently",
+          "description": "A to-do app enabling users to add, manage, and delete tasks, helping them efficiently organize and track daily activities with ease and clarity.",
           "tags": ["HTML", "CSS", "JavaScript"],
           "status": "completed",
           "github": "https://github.com/lamlankosi/To-do-list.git",
