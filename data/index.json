@@ -257,16 +257,6 @@
           "github": "https://github.com/lamlankosi/LamlaGamingStore.git",
           "vercel": "https://lamla-gaming-store.vercel.app/",
           "background_img": "https://lamlankosi.github.io/project_images/Images/Screenshot-121907.png"
-        },
-        {
-          "id": 7,
-          "name": "Keyboard",
-          "description": "Keyboard layout, blending style and functionality seamlessly for an enhanced user experience.",
-          "tags": ["HTML", "CSS"],
-          "status": "working-on",
-          "vercel": "https://keyboard1-zeta.vercel.app/",
-          "github": "hhttps://github.com/lamlankosi/Keyboard1.git",
-          "background_img": "https://lamlankosi.github.io/project_images/Images/1630316510216.jpg"
         }
     ]
 }
