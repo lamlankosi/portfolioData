@@ -196,7 +196,7 @@
     "projects": [
         {
           "id": 1,
-          "name": "Urban Loft(eCommerce)",
+          "name": "Urban Loft",
           "description": "A modern, responsive Vue.js-powered e-commerce platform for selling plants. Users can browse plants, add items to their cart, and complete purchases seamlessly. The platform includes authentication, product filtering, and an admin dashboard for managing products and orders.",
           "tags": ["Vuejs", "CSS", "Bootstrap", "HTML"],
           "status": "completed",
@@ -250,7 +250,7 @@
         },
         {
           "id": 6,
-          "name": "Gaming Store(eCommerce)",
+          "name": "Gaming Store",
           "description": "Online gaming store offering video games and gaming accessories for purchase.It include product listing and shopping features",
           "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
           "status": "completed",
